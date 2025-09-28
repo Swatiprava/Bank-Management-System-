@@ -1,0 +1,26 @@
+[
+    {
+        "name": "sony",
+        "age": 21,
+        "email": "sony123@gmail.com",
+        "pin": 2345,
+        "accountNo.": "g181bA$",
+        "balance": 0
+    },
+    {
+        "name": "Swati sahoo",
+        "age": 28,
+        "email": "swati@gmail.com",
+        "pin": 9876,
+        "accountNo.": "*60N2Dv",
+        "balance": 4000
+    },
+    {
+        "name": "Swati Sahoo",
+        "age": 21,
+        "email": "swati@gmail.com",
+        "pin": 3456,
+        "accountNo.": "2*MK46j",
+        "balance": 0
+    }
+]
